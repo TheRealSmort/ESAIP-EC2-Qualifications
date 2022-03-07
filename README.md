@@ -1,5 +1,3 @@
-# README
-
 # ESAIP-EC2-Qulifications
 
 In order to chose a team for the EC2 the cybersecurtiy students made an internal CTF, here you will find my WUs.
