@@ -17,6 +17,7 @@ In order to chose a team for the EC2 the cybersecurtiy students made an internal
 - Reverse
 - Steganography
 - Forensics
+- Misc
 
 ## Challenges made by :
 
